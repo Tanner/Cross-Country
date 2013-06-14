@@ -4,6 +4,8 @@ A repository for my cross-country flight in a Piper Cherokee.
 ### GPS Data
 GPS data was provided by a [SPOT Satellite GPS Messenger](http://www.findmespot.com/en/index.php?cid=102).
 
+Raw data can be found in the folder [GPS Data](/GPS Data).
+
 #### GeoJSON
 A convient [GeoJSON](http://www.geojson.org/geojson-spec.html) file is provided in [map.geojson](/map.geojson).
 
