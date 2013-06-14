@@ -8,7 +8,7 @@
 				"coordinates": [-106.85275, 32.10132]
 			},
 			"properties": {
-				"date": "Mon Aug 09 15:45:19 UTC 2010"
+				"Date": "Mon Aug 09 15:45:19 UTC 2010"
 			}
 		},
 		{
@@ -18,7 +18,7 @@
 				"coordinates": [-107.21478, 32.17488]
 			},
 			"properties": {
-				"date": "Mon Aug 09 15:35:19 UTC 2010"
+				"Date": "Mon Aug 09 15:35:19 UTC 2010"
 			}
 		},
 		{
@@ -28,7 +28,7 @@
 				"coordinates": [-107.52448, 32.25793]
 			},
 			"properties": {
-				"date": "Mon Aug 09 15:26:05 UTC 2010"
+				"Date": "Mon Aug 09 15:26:05 UTC 2010"
 			}
 		},
 		{
@@ -38,7 +38,7 @@
 				"coordinates": [-107.70267, 32.26327]
 			},
 			"properties": {
-				"date": "Mon Aug 09 15:15:24 UTC 2010"
+				"Date": "Mon Aug 09 15:15:24 UTC 2010"
 			}
 		},
 		{
@@ -48,7 +48,7 @@
 				"coordinates": [-107.7245, 32.26466]
 			},
 			"properties": {
-				"date": "Mon Aug 09 15:06:03 UTC 2010"
+				"Date": "Mon Aug 09 15:06:03 UTC 2010"
 			}
 		},
 		{
@@ -58,7 +58,7 @@
 				"coordinates": [-107.7245, 32.26464]
 			},
 			"properties": {
-				"date": "Sun Aug 08 23:49:10 UTC 2010"
+				"Date": "Sun Aug 08 23:49:10 UTC 2010"
 			}
 		},
 		{
@@ -68,7 +68,7 @@
 				"coordinates": [-107.8531, 32.25816]
 			},
 			"properties": {
-				"date": "Sun Aug 08 23:38:20 UTC 2010"
+				"Date": "Sun Aug 08 23:38:20 UTC 2010"
 			}
 		},
 		{
@@ -78,7 +78,7 @@
 				"coordinates": [-108.23238, 32.24687]
 			},
 			"properties": {
-				"date": "Sun Aug 08 23:28:21 UTC 2010"
+				"Date": "Sun Aug 08 23:28:21 UTC 2010"
 			}
 		},
 		{
@@ -88,7 +88,7 @@
 				"coordinates": [-108.60703, 32.25456]
 			},
 			"properties": {
-				"date": "Sun Aug 08 23:18:21 UTC 2010"
+				"Date": "Sun Aug 08 23:18:21 UTC 2010"
 			}
 		},
 		{
@@ -98,7 +98,7 @@
 				"coordinates": [-108.96783, 32.26674]
 			},
 			"properties": {
-				"date": "Sun Aug 08 23:08:27 UTC 2010"
+				"Date": "Sun Aug 08 23:08:27 UTC 2010"
 			}
 		},
 		{
@@ -108,7 +108,7 @@
 				"coordinates": [-109.32681, 32.24556]
 			},
 			"properties": {
-				"date": "Sun Aug 08 22:58:25 UTC 2010"
+				"Date": "Sun Aug 08 22:58:25 UTC 2010"
 			}
 		},
 		{
@@ -118,7 +118,7 @@
 				"coordinates": [-109.63847, 32.1196]
 			},
 			"properties": {
-				"date": "Sun Aug 08 22:48:29 UTC 2010"
+				"Date": "Sun Aug 08 22:48:29 UTC 2010"
 			}
 		},
 		{
@@ -128,7 +128,7 @@
 				"coordinates": [-109.94804, 32.11161]
 			},
 			"properties": {
-				"date": "Sun Aug 08 22:39:30 UTC 2010"
+				"Date": "Sun Aug 08 22:39:30 UTC 2010"
 			}
 		},
 		{
@@ -138,7 +138,7 @@
 				"coordinates": [-110.28583, 32.25527]
 			},
 			"properties": {
-				"date": "Sun Aug 08 22:28:33 UTC 2010"
+				"Date": "Sun Aug 08 22:28:33 UTC 2010"
 			}
 		},
 		{
@@ -148,7 +148,7 @@
 				"coordinates": [-110.54094, 32.45297]
 			},
 			"properties": {
-				"date": "Sun Aug 08 22:18:37 UTC 2010"
+				"Date": "Sun Aug 08 22:18:37 UTC 2010"
 			}
 		},
 		{
@@ -158,7 +158,7 @@
 				"coordinates": [-110.80847, 32.62353]
 			},
 			"properties": {
-				"date": "Sun Aug 08 22:08:25 UTC 2010"
+				"Date": "Sun Aug 08 22:08:25 UTC 2010"
 			}
 		},
 		{
@@ -168,7 +168,7 @@
 				"coordinates": [-111.11079, 32.70965]
 			},
 			"properties": {
-				"date": "Sun Aug 08 21:58:38 UTC 2010"
+				"Date": "Sun Aug 08 21:58:38 UTC 2010"
 			}
 		},
 		{
@@ -178,7 +178,7 @@
 				"coordinates": [-111.38478, 32.78682]
 			},
 			"properties": {
-				"date": "Sun Aug 08 21:49:32 UTC 2010"
+				"Date": "Sun Aug 08 21:49:32 UTC 2010"
 			}
 		},
 		{
@@ -188,7 +188,7 @@
 				"coordinates": [-111.58234, 32.81059]
 			},
 			"properties": {
-				"date": "Sun Aug 08 21:38:54 UTC 2010"
+				"Date": "Sun Aug 08 21:38:54 UTC 2010"
 			}
 		},
 		{
@@ -198,7 +198,7 @@
 				"coordinates": [-111.58682, 32.80507]
 			},
 			"properties": {
-				"date": "Sun Aug 08 21:29:09 UTC 2010"
+				"Date": "Sun Aug 08 21:29:09 UTC 2010"
 			}
 		},
 		{
@@ -208,7 +208,7 @@
 				"coordinates": [-111.8708, 32.84251]
 			},
 			"properties": {
-				"date": "Sun Aug 08 19:59:05 UTC 2010"
+				"Date": "Sun Aug 08 19:59:05 UTC 2010"
 			}
 		},
 		{
@@ -218,7 +218,7 @@
 				"coordinates": [-112.20367, 32.90169]
 			},
 			"properties": {
-				"date": "Sun Aug 08 19:49:15 UTC 2010"
+				"Date": "Sun Aug 08 19:49:15 UTC 2010"
 			}
 		},
 		{
@@ -228,7 +228,7 @@
 				"coordinates": [-112.54823, 32.94202]
 			},
 			"properties": {
-				"date": "Sun Aug 08 19:39:03 UTC 2010"
+				"Date": "Sun Aug 08 19:39:03 UTC 2010"
 			}
 		},
 		{
@@ -238,7 +238,7 @@
 				"coordinates": [-112.88216, 32.94459]
 			},
 			"properties": {
-				"date": "Sun Aug 08 19:29:01 UTC 2010"
+				"Date": "Sun Aug 08 19:29:01 UTC 2010"
 			}
 		},
 		{
@@ -248,7 +248,7 @@
 				"coordinates": [-113.25165, 32.89658]
 			},
 			"properties": {
-				"date": "Sun Aug 08 19:19:05 UTC 2010"
+				"Date": "Sun Aug 08 19:19:05 UTC 2010"
 			}
 		},
 		{
@@ -258,7 +258,7 @@
 				"coordinates": [-113.61285, 32.86039]
 			},
 			"properties": {
-				"date": "Sun Aug 08 19:09:05 UTC 2010"
+				"Date": "Sun Aug 08 19:09:05 UTC 2010"
 			}
 		},
 		{
@@ -268,7 +268,7 @@
 				"coordinates": [-113.94809, 32.81603]
 			},
 			"properties": {
-				"date": "Sun Aug 08 18:59:05 UTC 2010"
+				"Date": "Sun Aug 08 18:59:05 UTC 2010"
 			}
 		},
 		{
@@ -278,7 +278,7 @@
 				"coordinates": [-114.28639, 32.76834]
 			},
 			"properties": {
-				"date": "Sun Aug 08 18:49:00 UTC 2010"
+				"Date": "Sun Aug 08 18:49:00 UTC 2010"
 			}
 		},
 		{
@@ -288,7 +288,7 @@
 				"coordinates": [-114.60422, 32.76934]
 			},
 			"properties": {
-				"date": "Sun Aug 08 18:39:07 UTC 2010"
+				"Date": "Sun Aug 08 18:39:07 UTC 2010"
 			}
 		},
 		{
@@ -298,7 +298,7 @@
 				"coordinates": [-114.95332, 32.77887]
 			},
 			"properties": {
-				"date": "Sun Aug 08 18:29:01 UTC 2010"
+				"Date": "Sun Aug 08 18:29:01 UTC 2010"
 			}
 		},
 		{
@@ -308,7 +308,7 @@
 				"coordinates": [-115.30495, 32.75445]
 			},
 			"properties": {
-				"date": "Sun Aug 08 18:19:02 UTC 2010"
+				"Date": "Sun Aug 08 18:19:02 UTC 2010"
 			}
 		},
 		{
@@ -318,7 +318,7 @@
 				"coordinates": [-115.66426, 32.7174]
 			},
 			"properties": {
-				"date": "Sun Aug 08 18:09:02 UTC 2010"
+				"Date": "Sun Aug 08 18:09:02 UTC 2010"
 			}
 		},
 		{
@@ -328,7 +328,7 @@
 				"coordinates": [-116.01906, 32.73486]
 			},
 			"properties": {
-				"date": "Sun Aug 08 17:59:03 UTC 2010"
+				"Date": "Sun Aug 08 17:59:03 UTC 2010"
 			}
 		},
 		{
@@ -338,7 +338,7 @@
 				"coordinates": [-116.36528, 32.78687]
 			},
 			"properties": {
-				"date": "Sun Aug 08 17:49:12 UTC 2010"
+				"Date": "Sun Aug 08 17:49:12 UTC 2010"
 			}
 		},
 		{
@@ -348,7 +348,7 @@
 				"coordinates": [-116.65125, 32.90528]
 			},
 			"properties": {
-				"date": "Sun Aug 08 17:39:10 UTC 2010"
+				"Date": "Sun Aug 08 17:39:10 UTC 2010"
 			}
 		},
 		{
@@ -358,7 +358,7 @@
 				"coordinates": [-116.77718, 33.12083]
 			},
 			"properties": {
-				"date": "Sun Aug 08 17:29:40 UTC 2010"
+				"Date": "Sun Aug 08 17:29:40 UTC 2010"
 			}
 		},
 		{
@@ -368,7 +368,7 @@
 				"coordinates": [-116.907, 33.03857]
 			},
 			"properties": {
-				"date": "Sun Aug 08 17:19:05 UTC 2010"
+				"Date": "Sun Aug 08 17:19:05 UTC 2010"
 			}
 		},
 		{
@@ -378,7 +378,7 @@
 				"coordinates": [-116.90846, 33.03983]
 			},
 			"properties": {
-				"date": "Sun Aug 08 17:09:39 UTC 2010"
+				"Date": "Sun Aug 08 17:09:39 UTC 2010"
 			}
 		},
 		{
@@ -388,7 +388,7 @@
 				"coordinates": [-116.82724, 32.9618]
 			},
 			"properties": {
-				"date": "Thu Aug 05 22:18:13 UTC 2010"
+				"Date": "Thu Aug 05 22:18:13 UTC 2010"
 			}
 		},
 		{
@@ -398,7 +398,7 @@
 				"coordinates": [-116.55168, 32.77743]
 			},
 			"properties": {
-				"date": "Thu Aug 05 22:07:50 UTC 2010"
+				"Date": "Thu Aug 05 22:07:50 UTC 2010"
 			}
 		},
 		{
@@ -408,7 +408,7 @@
 				"coordinates": [-116.2402, 32.74238]
 			},
 			"properties": {
-				"date": "Thu Aug 05 21:57:50 UTC 2010"
+				"Date": "Thu Aug 05 21:57:50 UTC 2010"
 			}
 		},
 		{
@@ -418,7 +418,7 @@
 				"coordinates": [-115.91685, 32.72663]
 			},
 			"properties": {
-				"date": "Thu Aug 05 21:48:00 UTC 2010"
+				"Date": "Thu Aug 05 21:48:00 UTC 2010"
 			}
 		},
 		{
@@ -428,7 +428,7 @@
 				"coordinates": [-115.62447, 32.7373]
 			},
 			"properties": {
-				"date": "Thu Aug 05 21:38:21 UTC 2010"
+				"Date": "Thu Aug 05 21:38:21 UTC 2010"
 			}
 		},
 		{
@@ -438,7 +438,7 @@
 				"coordinates": [-115.27789, 32.76316]
 			},
 			"properties": {
-				"date": "Thu Aug 05 21:27:52 UTC 2010"
+				"Date": "Thu Aug 05 21:27:52 UTC 2010"
 			}
 		},
 		{
@@ -448,7 +448,7 @@
 				"coordinates": [-114.95926, 32.77332]
 			},
 			"properties": {
-				"date": "Thu Aug 05 21:18:28 UTC 2010"
+				"Date": "Thu Aug 05 21:18:28 UTC 2010"
 			}
 		},
 		{
@@ -458,7 +458,7 @@
 				"coordinates": [-114.58649, 32.76564]
 			},
 			"properties": {
-				"date": "Thu Aug 05 21:08:02 UTC 2010"
+				"Date": "Thu Aug 05 21:08:02 UTC 2010"
 			}
 		},
 		{
@@ -468,7 +468,7 @@
 				"coordinates": [-114.33292, 32.74487]
 			},
 			"properties": {
-				"date": "Thu Aug 05 21:00:45 UTC 2010"
+				"Date": "Thu Aug 05 21:00:45 UTC 2010"
 			}
 		},
 		{
@@ -478,7 +478,7 @@
 				"coordinates": [-113.89258, 32.76773]
 			},
 			"properties": {
-				"date": "Thu Aug 05 20:47:57 UTC 2010"
+				"Date": "Thu Aug 05 20:47:57 UTC 2010"
 			}
 		},
 		{
@@ -488,7 +488,7 @@
 				"coordinates": [-113.59219, 32.87034]
 			},
 			"properties": {
-				"date": "Thu Aug 05 20:37:52 UTC 2010"
+				"Date": "Thu Aug 05 20:37:52 UTC 2010"
 			}
 		},
 		{
@@ -498,7 +498,7 @@
 				"coordinates": [-113.28586, 32.90467]
 			},
 			"properties": {
-				"date": "Thu Aug 05 20:27:52 UTC 2010"
+				"Date": "Thu Aug 05 20:27:52 UTC 2010"
 			}
 		},
 		{
@@ -508,7 +508,7 @@
 				"coordinates": [-112.95003, 32.9306]
 			},
 			"properties": {
-				"date": "Thu Aug 05 20:17:56 UTC 2010"
+				"Date": "Thu Aug 05 20:17:56 UTC 2010"
 			}
 		},
 		{
@@ -518,7 +518,7 @@
 				"coordinates": [-112.63322, 32.96747]
 			},
 			"properties": {
-				"date": "Thu Aug 05 20:07:53 UTC 2010"
+				"Date": "Thu Aug 05 20:07:53 UTC 2010"
 			}
 		},
 		{
@@ -528,7 +528,7 @@
 				"coordinates": [-112.30896, 32.98446]
 			},
 			"properties": {
-				"date": "Thu Aug 05 19:57:54 UTC 2010"
+				"Date": "Thu Aug 05 19:57:54 UTC 2010"
 			}
 		},
 		{
@@ -538,7 +538,7 @@
 				"coordinates": [-112.0363, 32.96794]
 			},
 			"properties": {
-				"date": "Thu Aug 05 19:48:39 UTC 2010"
+				"Date": "Thu Aug 05 19:48:39 UTC 2010"
 			}
 		},
 		{
@@ -548,7 +548,7 @@
 				"coordinates": [-111.74484, 32.97146]
 			},
 			"properties": {
-				"date": "Thu Aug 05 19:38:40 UTC 2010"
+				"Date": "Thu Aug 05 19:38:40 UTC 2010"
 			}
 		},
 		{
@@ -558,7 +558,7 @@
 				"coordinates": [-111.7608, 32.9557]
 			},
 			"properties": {
-				"date": "Thu Aug 05 19:27:55 UTC 2010"
+				"Date": "Thu Aug 05 19:27:55 UTC 2010"
 			}
 		},
 		{
@@ -568,7 +568,7 @@
 				"coordinates": [-111.7608, 32.9557]
 			},
 			"properties": {
-				"date": "Thu Aug 05 19:18:35 UTC 2010"
+				"Date": "Thu Aug 05 19:18:35 UTC 2010"
 			}
 		},
 		{
@@ -578,7 +578,7 @@
 				"coordinates": [-111.45798, 32.94907]
 			},
 			"properties": {
-				"date": "Thu Aug 05 16:58:29 UTC 2010"
+				"Date": "Thu Aug 05 16:58:29 UTC 2010"
 			}
 		},
 		{
@@ -588,7 +588,7 @@
 				"coordinates": [-111.45798, 32.94907]
 			},
 			"properties": {
-				"date": "Thu Aug 05 16:48:29 UTC 2010"
+				"Date": "Thu Aug 05 16:48:29 UTC 2010"
 			}
 		},
 		{
@@ -598,7 +598,7 @@
 				"coordinates": [-111.45798, 32.94907]
 			},
 			"properties": {
-				"date": "Thu Aug 05 16:38:29 UTC 2010"
+				"Date": "Thu Aug 05 16:38:29 UTC 2010"
 			}
 		},
 		{
@@ -608,7 +608,7 @@
 				"coordinates": [-111.43022, 32.93615]
 			},
 			"properties": {
-				"date": "Thu Aug 05 16:21:10 UTC 2010"
+				"Date": "Thu Aug 05 16:21:10 UTC 2010"
 			}
 		},
 		{
@@ -618,7 +618,7 @@
 				"coordinates": [-111.27942, 32.88339]
 			},
 			"properties": {
-				"date": "Thu Aug 05 16:11:05 UTC 2010"
+				"Date": "Thu Aug 05 16:11:05 UTC 2010"
 			}
 		},
 		{
@@ -628,7 +628,7 @@
 				"coordinates": [-110.95372, 32.74045]
 			},
 			"properties": {
-				"date": "Thu Aug 05 16:01:05 UTC 2010"
+				"Date": "Thu Aug 05 16:01:05 UTC 2010"
 			}
 		},
 		{
@@ -638,7 +638,7 @@
 				"coordinates": [-110.62981, 32.61288]
 			},
 			"properties": {
-				"date": "Thu Aug 05 15:51:06 UTC 2010"
+				"Date": "Thu Aug 05 15:51:06 UTC 2010"
 			}
 		},
 		{
@@ -648,7 +648,7 @@
 				"coordinates": [-110.38216, 32.38066]
 			},
 			"properties": {
-				"date": "Thu Aug 05 15:41:10 UTC 2010"
+				"Date": "Thu Aug 05 15:41:10 UTC 2010"
 			}
 		},
 		{
@@ -658,7 +658,7 @@
 				"coordinates": [-110.12242, 32.17035]
 			},
 			"properties": {
-				"date": "Thu Aug 05 15:31:07 UTC 2010"
+				"Date": "Thu Aug 05 15:31:07 UTC 2010"
 			}
 		},
 		{
@@ -668,7 +668,7 @@
 				"coordinates": [-109.82915, 32.05513]
 			},
 			"properties": {
-				"date": "Thu Aug 05 15:22:19 UTC 2010"
+				"Date": "Thu Aug 05 15:22:19 UTC 2010"
 			}
 		},
 		{
@@ -678,7 +678,7 @@
 				"coordinates": [-109.47659, 32.16187]
 			},
 			"properties": {
-				"date": "Thu Aug 05 15:11:11 UTC 2010"
+				"Date": "Thu Aug 05 15:11:11 UTC 2010"
 			}
 		},
 		{
@@ -688,7 +688,7 @@
 				"coordinates": [-109.20447, 32.25895]
 			},
 			"properties": {
-				"date": "Thu Aug 05 15:02:32 UTC 2010"
+				"Date": "Thu Aug 05 15:02:32 UTC 2010"
 			}
 		},
 		{
@@ -698,7 +698,7 @@
 				"coordinates": [-108.8071, 32.26562]
 			},
 			"properties": {
-				"date": "Thu Aug 05 14:51:09 UTC 2010"
+				"Date": "Thu Aug 05 14:51:09 UTC 2010"
 			}
 		},
 		{
@@ -708,7 +708,7 @@
 				"coordinates": [-108.45338, 32.27165]
 			},
 			"properties": {
-				"date": "Thu Aug 05 14:41:09 UTC 2010"
+				"Date": "Thu Aug 05 14:41:09 UTC 2010"
 			}
 		},
 		{
@@ -718,7 +718,7 @@
 				"coordinates": [-108.09689, 32.26402]
 			},
 			"properties": {
-				"date": "Thu Aug 05 14:31:10 UTC 2010"
+				"Date": "Thu Aug 05 14:31:10 UTC 2010"
 			}
 		},
 		{
@@ -728,7 +728,7 @@
 				"coordinates": [-107.81184, 32.27188]
 			},
 			"properties": {
-				"date": "Thu Aug 05 14:21:58 UTC 2010"
+				"Date": "Thu Aug 05 14:21:58 UTC 2010"
 			}
 		},
 		{
@@ -738,7 +738,7 @@
 				"coordinates": [-107.72357, 32.26378]
 			},
 			"properties": {
-				"date": "Thu Aug 05 14:11:11 UTC 2010"
+				"Date": "Thu Aug 05 14:11:11 UTC 2010"
 			}
 		},
 		{
@@ -748,7 +748,7 @@
 				"coordinates": [-107.72453, 32.26464]
 			},
 			"properties": {
-				"date": "Thu Aug 05 14:02:09 UTC 2010"
+				"Date": "Thu Aug 05 14:02:09 UTC 2010"
 			}
 		},
 		{
@@ -758,7 +758,7 @@
 				"coordinates": [-107.65079, 32.26912]
 			},
 			"properties": {
-				"date": "Wed Aug 04 20:54:45 UTC 2010"
+				"Date": "Wed Aug 04 20:54:45 UTC 2010"
 			}
 		},
 		{
@@ -768,7 +768,7 @@
 				"coordinates": [-107.31694, 32.2326]
 			},
 			"properties": {
-				"date": "Wed Aug 04 20:44:43 UTC 2010"
+				"Date": "Wed Aug 04 20:44:43 UTC 2010"
 			}
 		},
 		{
@@ -778,7 +778,7 @@
 				"coordinates": [-107.00793, 32.16644]
 			},
 			"properties": {
-				"date": "Wed Aug 04 20:35:07 UTC 2010"
+				"Date": "Wed Aug 04 20:35:07 UTC 2010"
 			}
 		},
 		{
@@ -788,7 +788,7 @@
 				"coordinates": [-106.68666, 32.08577]
 			},
 			"properties": {
-				"date": "Wed Aug 04 20:24:47 UTC 2010"
+				"Date": "Wed Aug 04 20:24:47 UTC 2010"
 			}
 		},
 		{
@@ -798,7 +798,7 @@
 				"coordinates": [-106.37358, 32.03531]
 			},
 			"properties": {
-				"date": "Wed Aug 04 20:14:47 UTC 2010"
+				"Date": "Wed Aug 04 20:14:47 UTC 2010"
 			}
 		},
 		{
@@ -808,7 +808,7 @@
 				"coordinates": [-106.06377, 31.96893]
 			},
 			"properties": {
-				"date": "Wed Aug 04 20:04:45 UTC 2010"
+				"Date": "Wed Aug 04 20:04:45 UTC 2010"
 			}
 		},
 		{
@@ -818,7 +818,7 @@
 				"coordinates": [-105.73172, 31.92816]
 			},
 			"properties": {
-				"date": "Wed Aug 04 19:54:51 UTC 2010"
+				"Date": "Wed Aug 04 19:54:51 UTC 2010"
 			}
 		},
 		{
@@ -828,7 +828,7 @@
 				"coordinates": [-105.3981, 31.84508]
 			},
 			"properties": {
-				"date": "Wed Aug 04 19:44:51 UTC 2010"
+				"Date": "Wed Aug 04 19:44:51 UTC 2010"
 			}
 		},
 		{
@@ -838,7 +838,7 @@
 				"coordinates": [-105.08, 31.73766]
 			},
 			"properties": {
-				"date": "Wed Aug 04 19:34:46 UTC 2010"
+				"Date": "Wed Aug 04 19:34:46 UTC 2010"
 			}
 		},
 		{
@@ -848,7 +848,7 @@
 				"coordinates": [-104.73131, 31.80486]
 			},
 			"properties": {
-				"date": "Wed Aug 04 19:24:50 UTC 2010"
+				"Date": "Wed Aug 04 19:24:50 UTC 2010"
 			}
 		},
 		{
@@ -858,7 +858,7 @@
 				"coordinates": [-104.37766, 31.8525]
 			},
 			"properties": {
-				"date": "Wed Aug 04 19:14:47 UTC 2010"
+				"Date": "Wed Aug 04 19:14:47 UTC 2010"
 			}
 		},
 		{
@@ -868,7 +868,7 @@
 				"coordinates": [-104.05995, 31.9411]
 			},
 			"properties": {
-				"date": "Wed Aug 04 19:04:51 UTC 2010"
+				"Date": "Wed Aug 04 19:04:51 UTC 2010"
 			}
 		},
 		{
@@ -878,7 +878,7 @@
 				"coordinates": [-103.72641, 32.04144]
 			},
 			"properties": {
-				"date": "Wed Aug 04 18:54:49 UTC 2010"
+				"Date": "Wed Aug 04 18:54:49 UTC 2010"
 			}
 		},
 		{
@@ -888,7 +888,7 @@
 				"coordinates": [-103.39087, 32.14285]
 			},
 			"properties": {
-				"date": "Wed Aug 04 18:44:49 UTC 2010"
+				"Date": "Wed Aug 04 18:44:49 UTC 2010"
 			}
 		},
 		{
@@ -898,7 +898,7 @@
 				"coordinates": [-103.03494, 32.1905]
 			},
 			"properties": {
-				"date": "Wed Aug 04 18:34:50 UTC 2010"
+				"Date": "Wed Aug 04 18:34:50 UTC 2010"
 			}
 		},
 		{
@@ -908,7 +908,7 @@
 				"coordinates": [-102.73541, 32.25714]
 			},
 			"properties": {
-				"date": "Wed Aug 04 18:25:41 UTC 2010"
+				"Date": "Wed Aug 04 18:25:41 UTC 2010"
 			}
 		},
 		{
@@ -918,7 +918,7 @@
 				"coordinates": [-102.53455, 32.33984]
 			},
 			"properties": {
-				"date": "Wed Aug 04 18:14:57 UTC 2010"
+				"Date": "Wed Aug 04 18:14:57 UTC 2010"
 			}
 		},
 		{
@@ -928,7 +928,7 @@
 				"coordinates": [-102.53159, 32.32355]
 			},
 			"properties": {
-				"date": "Wed Aug 04 18:05:33 UTC 2010"
+				"Date": "Wed Aug 04 18:05:33 UTC 2010"
 			}
 		},
 		{
@@ -938,7 +938,7 @@
 				"coordinates": [-102.53226, 32.32349]
 			},
 			"properties": {
-				"date": "Wed Aug 04 16:46:15 UTC 2010"
+				"Date": "Wed Aug 04 16:46:15 UTC 2010"
 			}
 		},
 		{
@@ -948,7 +948,7 @@
 				"coordinates": [-102.53226, 32.32343]
 			},
 			"properties": {
-				"date": "Wed Aug 04 16:36:16 UTC 2010"
+				"Date": "Wed Aug 04 16:36:16 UTC 2010"
 			}
 		},
 		{
@@ -958,7 +958,7 @@
 				"coordinates": [-102.53223, 32.32339]
 			},
 			"properties": {
-				"date": "Wed Aug 04 16:26:16 UTC 2010"
+				"Date": "Wed Aug 04 16:26:16 UTC 2010"
 			}
 		},
 		{
@@ -968,7 +968,7 @@
 				"coordinates": [-102.5321, 32.32362]
 			},
 			"properties": {
-				"date": "Wed Aug 04 16:17:05 UTC 2010"
+				"Date": "Wed Aug 04 16:17:05 UTC 2010"
 			}
 		},
 		{
@@ -978,7 +978,7 @@
 				"coordinates": [-102.38766, 32.34244]
 			},
 			"properties": {
-				"date": "Wed Aug 04 16:06:17 UTC 2010"
+				"Date": "Wed Aug 04 16:06:17 UTC 2010"
 			}
 		},
 		{
@@ -988,7 +988,7 @@
 				"coordinates": [-102.01965, 32.36024]
 			},
 			"properties": {
-				"date": "Wed Aug 04 15:56:21 UTC 2010"
+				"Date": "Wed Aug 04 15:56:21 UTC 2010"
 			}
 		},
 		{
@@ -998,7 +998,7 @@
 				"coordinates": [-101.66062, 32.38788]
 			},
 			"properties": {
-				"date": "Wed Aug 04 15:46:21 UTC 2010"
+				"Date": "Wed Aug 04 15:46:21 UTC 2010"
 			}
 		},
 		{
@@ -1008,7 +1008,7 @@
 				"coordinates": [-101.31421, 32.41984]
 			},
 			"properties": {
-				"date": "Wed Aug 04 15:36:31 UTC 2010"
+				"Date": "Wed Aug 04 15:36:31 UTC 2010"
 			}
 		},
 		{
@@ -1018,7 +1018,7 @@
 				"coordinates": [-100.96387, 32.44605]
 			},
 			"properties": {
-				"date": "Wed Aug 04 15:26:31 UTC 2010"
+				"Date": "Wed Aug 04 15:26:31 UTC 2010"
 			}
 		},
 		{
@@ -1028,7 +1028,7 @@
 				"coordinates": [-100.5936, 32.47192]
 			},
 			"properties": {
-				"date": "Wed Aug 04 15:16:23 UTC 2010"
+				"Date": "Wed Aug 04 15:16:23 UTC 2010"
 			}
 		},
 		{
@@ -1038,7 +1038,7 @@
 				"coordinates": [-100.32364, 32.48834]
 			},
 			"properties": {
-				"date": "Wed Aug 04 15:08:47 UTC 2010"
+				"Date": "Wed Aug 04 15:08:47 UTC 2010"
 			}
 		},
 		{
@@ -1048,7 +1048,7 @@
 				"coordinates": [-99.8873, 32.59082]
 			},
 			"properties": {
-				"date": "Wed Aug 04 14:56:24 UTC 2010"
+				"Date": "Wed Aug 04 14:56:24 UTC 2010"
 			}
 		},
 		{
@@ -1058,7 +1058,7 @@
 				"coordinates": [-99.54385, 32.66934]
 			},
 			"properties": {
-				"date": "Wed Aug 04 14:46:24 UTC 2010"
+				"Date": "Wed Aug 04 14:46:24 UTC 2010"
 			}
 		},
 		{
@@ -1068,7 +1068,7 @@
 				"coordinates": [-99.20782, 32.75241]
 			},
 			"properties": {
-				"date": "Wed Aug 04 14:36:23 UTC 2010"
+				"Date": "Wed Aug 04 14:36:23 UTC 2010"
 			}
 		},
 		{
@@ -1078,7 +1078,7 @@
 				"coordinates": [-98.95114, 32.90129]
 			},
 			"properties": {
-				"date": "Wed Aug 04 14:27:20 UTC 2010"
+				"Date": "Wed Aug 04 14:27:20 UTC 2010"
 			}
 		},
 		{
@@ -1088,7 +1088,7 @@
 				"coordinates": [-98.65143, 33.074]
 			},
 			"properties": {
-				"date": "Wed Aug 04 14:16:26 UTC 2010"
+				"Date": "Wed Aug 04 14:16:26 UTC 2010"
 			}
 		},
 		{
@@ -1098,7 +1098,7 @@
 				"coordinates": [-98.34195, 33.20596]
 			},
 			"properties": {
-				"date": "Wed Aug 04 14:06:27 UTC 2010"
+				"Date": "Wed Aug 04 14:06:27 UTC 2010"
 			}
 		},
 		{
@@ -1108,7 +1108,7 @@
 				"coordinates": [-98.06439, 33.39184]
 			},
 			"properties": {
-				"date": "Wed Aug 04 13:56:27 UTC 2010"
+				"Date": "Wed Aug 04 13:56:27 UTC 2010"
 			}
 		},
 		{
@@ -1118,7 +1118,7 @@
 				"coordinates": [-97.77026, 33.53337]
 			},
 			"properties": {
-				"date": "Wed Aug 04 13:46:28 UTC 2010"
+				"Date": "Wed Aug 04 13:46:28 UTC 2010"
 			}
 		},
 		{
@@ -1128,7 +1128,7 @@
 				"coordinates": [-97.42233, 33.55382]
 			},
 			"properties": {
-				"date": "Wed Aug 04 13:36:25 UTC 2010"
+				"Date": "Wed Aug 04 13:36:25 UTC 2010"
 			}
 		},
 		{
@@ -1138,7 +1138,7 @@
 				"coordinates": [-97.10452, 33.5878]
 			},
 			"properties": {
-				"date": "Wed Aug 04 13:26:29 UTC 2010"
+				"Date": "Wed Aug 04 13:26:29 UTC 2010"
 			}
 		},
 		{
@@ -1148,7 +1148,7 @@
 				"coordinates": [-96.79523, 33.6093]
 			},
 			"properties": {
-				"date": "Wed Aug 04 13:16:27 UTC 2010"
+				"Date": "Wed Aug 04 13:16:27 UTC 2010"
 			}
 		},
 		{
@@ -1158,7 +1158,7 @@
 				"coordinates": [-96.58701, 33.62958]
 			},
 			"properties": {
-				"date": "Wed Aug 04 13:06:28 UTC 2010"
+				"Date": "Wed Aug 04 13:06:28 UTC 2010"
 			}
 		},
 		{
@@ -1168,7 +1168,7 @@
 				"coordinates": [-96.58591, 33.62758]
 			},
 			"properties": {
-				"date": "Wed Aug 04 12:57:10 UTC 2010"
+				"Date": "Wed Aug 04 12:57:10 UTC 2010"
 			}
 		},
 		{
@@ -1178,7 +1178,7 @@
 				"coordinates": [-96.58563, 33.62737]
 			},
 			"properties": {
-				"date": "Tue Aug 03 23:34:22 UTC 2010"
+				"Date": "Tue Aug 03 23:34:22 UTC 2010"
 			}
 		},
 		{
@@ -1188,7 +1188,7 @@
 				"coordinates": [-96.58563, 33.62736]
 			},
 			"properties": {
-				"date": "Tue Aug 03 23:25:11 UTC 2010"
+				"Date": "Tue Aug 03 23:25:11 UTC 2010"
 			}
 		},
 		{
@@ -1198,7 +1198,7 @@
 				"coordinates": [-96.50146, 33.59426]
 			},
 			"properties": {
-				"date": "Tue Aug 03 23:14:23 UTC 2010"
+				"Date": "Tue Aug 03 23:14:23 UTC 2010"
 			}
 		},
 		{
@@ -1208,7 +1208,7 @@
 				"coordinates": [-96.1608, 33.57847]
 			},
 			"properties": {
-				"date": "Tue Aug 03 23:04:21 UTC 2010"
+				"Date": "Tue Aug 03 23:04:21 UTC 2010"
 			}
 		},
 		{
@@ -1218,7 +1218,7 @@
 				"coordinates": [-95.8429, 33.5812]
 			},
 			"properties": {
-				"date": "Tue Aug 03 22:54:22 UTC 2010"
+				"Date": "Tue Aug 03 22:54:22 UTC 2010"
 			}
 		},
 		{
@@ -1228,7 +1228,7 @@
 				"coordinates": [-95.50781, 33.547]
 			},
 			"properties": {
-				"date": "Tue Aug 03 22:44:25 UTC 2010"
+				"Date": "Tue Aug 03 22:44:25 UTC 2010"
 			}
 		},
 		{
@@ -1238,7 +1238,7 @@
 				"coordinates": [-95.18088, 33.54868]
 			},
 			"properties": {
-				"date": "Tue Aug 03 22:34:23 UTC 2010"
+				"Date": "Tue Aug 03 22:34:23 UTC 2010"
 			}
 		},
 		{
@@ -1248,7 +1248,7 @@
 				"coordinates": [-94.84952, 33.52896]
 			},
 			"properties": {
-				"date": "Tue Aug 03 22:24:23 UTC 2010"
+				"Date": "Tue Aug 03 22:24:23 UTC 2010"
 			}
 		},
 		{
@@ -1258,7 +1258,7 @@
 				"coordinates": [-94.53177, 33.52937]
 			},
 			"properties": {
-				"date": "Tue Aug 03 22:14:24 UTC 2010"
+				"Date": "Tue Aug 03 22:14:24 UTC 2010"
 			}
 		},
 		{
@@ -1268,7 +1268,7 @@
 				"coordinates": [-94.20847, 33.54476]
 			},
 			"properties": {
-				"date": "Tue Aug 03 22:04:24 UTC 2010"
+				"Date": "Tue Aug 03 22:04:24 UTC 2010"
 			}
 		},
 		{
@@ -1278,7 +1278,7 @@
 				"coordinates": [-93.87445, 33.53018]
 			},
 			"properties": {
-				"date": "Tue Aug 03 21:54:25 UTC 2010"
+				"Date": "Tue Aug 03 21:54:25 UTC 2010"
 			}
 		},
 		{
@@ -1288,7 +1288,7 @@
 				"coordinates": [-93.56274, 33.53014]
 			},
 			"properties": {
-				"date": "Tue Aug 03 21:44:25 UTC 2010"
+				"Date": "Tue Aug 03 21:44:25 UTC 2010"
 			}
 		},
 		{
@@ -1298,7 +1298,7 @@
 				"coordinates": [-93.23297, 33.51039]
 			},
 			"properties": {
-				"date": "Tue Aug 03 21:34:26 UTC 2010"
+				"Date": "Tue Aug 03 21:34:26 UTC 2010"
 			}
 		},
 		{
@@ -1308,7 +1308,7 @@
 				"coordinates": [-92.90448, 33.50547]
 			},
 			"properties": {
-				"date": "Tue Aug 03 21:24:26 UTC 2010"
+				"Date": "Tue Aug 03 21:24:26 UTC 2010"
 			}
 		},
 		{
@@ -1318,7 +1318,7 @@
 				"coordinates": [-92.58624, 33.53034]
 			},
 			"properties": {
-				"date": "Tue Aug 03 21:14:27 UTC 2010"
+				"Date": "Tue Aug 03 21:14:27 UTC 2010"
 			}
 		},
 		{
@@ -1328,7 +1328,7 @@
 				"coordinates": [-92.24225, 33.55766]
 			},
 			"properties": {
-				"date": "Tue Aug 03 21:04:28 UTC 2010"
+				"Date": "Tue Aug 03 21:04:28 UTC 2010"
 			}
 		},
 		{
@@ -1338,7 +1338,7 @@
 				"coordinates": [-91.93018, 33.56588]
 			},
 			"properties": {
-				"date": "Tue Aug 03 20:54:28 UTC 2010"
+				"Date": "Tue Aug 03 20:54:28 UTC 2010"
 			}
 		},
 		{
@@ -1348,7 +1348,7 @@
 				"coordinates": [-91.57773, 33.54913]
 			},
 			"properties": {
-				"date": "Tue Aug 03 20:44:29 UTC 2010"
+				"Date": "Tue Aug 03 20:44:29 UTC 2010"
 			}
 		},
 		{
@@ -1358,7 +1358,7 @@
 				"coordinates": [-91.23001, 33.53483]
 			},
 			"properties": {
-				"date": "Tue Aug 03 20:34:29 UTC 2010"
+				"Date": "Tue Aug 03 20:34:29 UTC 2010"
 			}
 		},
 		{
@@ -1368,7 +1368,7 @@
 				"coordinates": [-90.89194, 33.54415]
 			},
 			"properties": {
-				"date": "Tue Aug 03 20:24:30 UTC 2010"
+				"Date": "Tue Aug 03 20:24:30 UTC 2010"
 			}
 		},
 		{
@@ -1378,7 +1378,7 @@
 				"coordinates": [-90.56534, 33.52872]
 			},
 			"properties": {
-				"date": "Tue Aug 03 20:14:30 UTC 2010"
+				"Date": "Tue Aug 03 20:14:30 UTC 2010"
 			}
 		},
 		{
@@ -1388,7 +1388,7 @@
 				"coordinates": [-90.28604, 33.50394]
 			},
 			"properties": {
-				"date": "Tue Aug 03 20:05:10 UTC 2010"
+				"Date": "Tue Aug 03 20:05:10 UTC 2010"
 			}
 		},
 		{
@@ -1398,7 +1398,7 @@
 				"coordinates": [-90.0867, 33.49903]
 			},
 			"properties": {
-				"date": "Tue Aug 03 19:54:31 UTC 2010"
+				"Date": "Tue Aug 03 19:54:31 UTC 2010"
 			}
 		},
 		{
@@ -1408,7 +1408,7 @@
 				"coordinates": [-90.08575, 33.4922]
 			},
 			"properties": {
-				"date": "Tue Aug 03 19:44:32 UTC 2010"
+				"Date": "Tue Aug 03 19:44:32 UTC 2010"
 			}
 		},
 		{
@@ -1418,7 +1418,7 @@
 				"coordinates": [-90.08578, 33.49225]
 			},
 			"properties": {
-				"date": "Tue Aug 03 19:34:35 UTC 2010"
+				"Date": "Tue Aug 03 19:34:35 UTC 2010"
 			}
 		},
 		{
@@ -1428,7 +1428,7 @@
 				"coordinates": [-90.08582, 33.49227]
 			},
 			"properties": {
-				"date": "Tue Aug 03 19:24:36 UTC 2010"
+				"Date": "Tue Aug 03 19:24:36 UTC 2010"
 			}
 		},
 		{
@@ -1438,7 +1438,7 @@
 				"coordinates": [-90.08585, 33.49225]
 			},
 			"properties": {
-				"date": "Tue Aug 03 19:14:34 UTC 2010"
+				"Date": "Tue Aug 03 19:14:34 UTC 2010"
 			}
 		},
 		{
@@ -1448,7 +1448,7 @@
 				"coordinates": [-90.08582, 33.49227]
 			},
 			"properties": {
-				"date": "Tue Aug 03 19:04:34 UTC 2010"
+				"Date": "Tue Aug 03 19:04:34 UTC 2010"
 			}
 		},
 		{
@@ -1458,7 +1458,7 @@
 				"coordinates": [-90.08582, 33.49226]
 			},
 			"properties": {
-				"date": "Tue Aug 03 18:55:41 UTC 2010"
+				"Date": "Tue Aug 03 18:55:41 UTC 2010"
 			}
 		},
 		{
@@ -1468,7 +1468,7 @@
 				"coordinates": [-89.96549, 33.48724]
 			},
 			"properties": {
-				"date": "Tue Aug 03 18:45:41 UTC 2010"
+				"Date": "Tue Aug 03 18:45:41 UTC 2010"
 			}
 		},
 		{
@@ -1478,7 +1478,7 @@
 				"coordinates": [-89.61819, 33.48107]
 			},
 			"properties": {
-				"date": "Tue Aug 03 18:34:36 UTC 2010"
+				"Date": "Tue Aug 03 18:34:36 UTC 2010"
 			}
 		},
 		{
@@ -1488,7 +1488,7 @@
 				"coordinates": [-89.28928, 33.48347]
 			},
 			"properties": {
-				"date": "Tue Aug 03 18:24:36 UTC 2010"
+				"Date": "Tue Aug 03 18:24:36 UTC 2010"
 			}
 		},
 		{
@@ -1498,7 +1498,7 @@
 				"coordinates": [-88.96771, 33.51665]
 			},
 			"properties": {
-				"date": "Tue Aug 03 18:14:46 UTC 2010"
+				"Date": "Tue Aug 03 18:14:46 UTC 2010"
 			}
 		},
 		{
@@ -1508,7 +1508,7 @@
 				"coordinates": [-88.69925, 33.53169]
 			},
 			"properties": {
-				"date": "Tue Aug 03 18:06:28 UTC 2010"
+				"Date": "Tue Aug 03 18:06:28 UTC 2010"
 			}
 		},
 		{
@@ -1518,7 +1518,7 @@
 				"coordinates": [-88.33585, 33.47455]
 			},
 			"properties": {
-				"date": "Tue Aug 03 17:55:17 UTC 2010"
+				"Date": "Tue Aug 03 17:55:17 UTC 2010"
 			}
 		},
 		{
@@ -1528,7 +1528,7 @@
 				"coordinates": [-88.02557, 33.55025]
 			},
 			"properties": {
-				"date": "Tue Aug 03 17:44:59 UTC 2010"
+				"Date": "Tue Aug 03 17:44:59 UTC 2010"
 			}
 		},
 		{
@@ -1538,7 +1538,7 @@
 				"coordinates": [-87.6976, 33.6088]
 			},
 			"properties": {
-				"date": "Tue Aug 03 17:34:42 UTC 2010"
+				"Date": "Tue Aug 03 17:34:42 UTC 2010"
 			}
 		},
 		{
@@ -1548,7 +1548,7 @@
 				"coordinates": [-87.37604, 33.62971]
 			},
 			"properties": {
-				"date": "Tue Aug 03 17:24:48 UTC 2010"
+				"Date": "Tue Aug 03 17:24:48 UTC 2010"
 			}
 		},
 		{
@@ -1558,7 +1558,7 @@
 				"coordinates": [-87.04608, 33.67386]
 			},
 			"properties": {
-				"date": "Tue Aug 03 17:14:43 UTC 2010"
+				"Date": "Tue Aug 03 17:14:43 UTC 2010"
 			}
 		},
 		{
@@ -1568,7 +1568,7 @@
 				"coordinates": [-86.75851, 33.79075]
 			},
 			"properties": {
-				"date": "Tue Aug 03 17:04:44 UTC 2010"
+				"Date": "Tue Aug 03 17:04:44 UTC 2010"
 			}
 		},
 		{
@@ -1578,7 +1578,7 @@
 				"coordinates": [-86.44077, 33.89154]
 			},
 			"properties": {
-				"date": "Tue Aug 03 16:54:41 UTC 2010"
+				"Date": "Tue Aug 03 16:54:41 UTC 2010"
 			}
 		},
 		{
@@ -1588,7 +1588,7 @@
 				"coordinates": [-86.12692, 33.95463]
 			},
 			"properties": {
-				"date": "Tue Aug 03 16:44:45 UTC 2010"
+				"Date": "Tue Aug 03 16:44:45 UTC 2010"
 			}
 		},
 		{
@@ -1598,7 +1598,7 @@
 				"coordinates": [-85.8165, 34.04184]
 			},
 			"properties": {
-				"date": "Tue Aug 03 16:34:42 UTC 2010"
+				"Date": "Tue Aug 03 16:34:42 UTC 2010"
 			}
 		},
 		{
@@ -1608,7 +1608,7 @@
 				"coordinates": [-85.49774, 34.09458]
 			},
 			"properties": {
-				"date": "Tue Aug 03 16:24:43 UTC 2010"
+				"Date": "Tue Aug 03 16:24:43 UTC 2010"
 			}
 		},
 		{
@@ -1618,7 +1618,7 @@
 				"coordinates": [-85.17563, 34.1467]
 			},
 			"properties": {
-				"date": "Tue Aug 03 16:14:43 UTC 2010"
+				"Date": "Tue Aug 03 16:14:43 UTC 2010"
 			}
 		},
 		{
@@ -1628,7 +1628,7 @@
 				"coordinates": [-84.85431, 34.13068]
 			},
 			"properties": {
-				"date": "Tue Aug 03 16:04:44 UTC 2010"
+				"Date": "Tue Aug 03 16:04:44 UTC 2010"
 			}
 		},
 		{
@@ -1638,7 +1638,7 @@
 				"coordinates": [-84.54913, 34.09156]
 			},
 			"properties": {
-				"date": "Tue Aug 03 15:54:50 UTC 2010"
+				"Date": "Tue Aug 03 15:54:50 UTC 2010"
 			}
 		},
 		{
@@ -1648,7 +1648,7 @@
 				"coordinates": [-84.25165, 34.03913]
 			},
 			"properties": {
-				"date": "Tue Aug 03 15:44:45 UTC 2010"
+				"Date": "Tue Aug 03 15:44:45 UTC 2010"
 			}
 		},
 		{
@@ -1658,7 +1658,7 @@
 				"coordinates": [-83.99567, 34.0029]
 			},
 			"properties": {
-				"date": "Tue Aug 03 15:35:33 UTC 2010"
+				"Date": "Tue Aug 03 15:35:33 UTC 2010"
 			}
 		},
 		{
@@ -1668,7 +1668,7 @@
 				"coordinates": [-83.96576, 33.97498]
 			},
 			"properties": {
-				"date": "Tue Aug 03 15:24:49 UTC 2010"
+				"Date": "Tue Aug 03 15:24:49 UTC 2010"
 			}
 		},
 		{
@@ -1678,7 +1678,7 @@
 				"coordinates": [-83.96478, 33.97551]
 			},
 			"properties": {
-				"date": "Tue Aug 03 15:15:34 UTC 2010"
+				"Date": "Tue Aug 03 15:15:34 UTC 2010"
 			}
 		}
 	]
