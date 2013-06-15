@@ -7,6 +7,6 @@ GPS data was provided by a [SPOT Satellite GPS Messenger](http://www.findmespot.
 Raw data can be found in the folder [GPS Data](/GPS Data).
 
 #### GeoJSON
-A convient [GeoJSON](http://www.geojson.org/geojson-spec.html) file is provided in [map.geojson](/map.geojson).
+A convenient [GeoJSON](http://www.geojson.org/geojson-spec.html) file is provided in [map.geojson](/map.geojson).
 
 Thanks to [GeoJSONLint](http://geojsonlint.com/) for making learning/testing the GeoJSON format easy.
